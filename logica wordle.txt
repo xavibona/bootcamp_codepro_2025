@@ -1,0 +1,8 @@
+5 letras, 6 intentos: perro
+
+ingresar primera palabra,  5 letras
+comparacion p_usuario con p_designada
+	caso 1: letra mismo lugar
+	caso 2: letra en otro lugar
+	caso 3: letra no esta
+devolver, imprimir resultado
